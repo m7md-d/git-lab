@@ -12,3 +12,5 @@ A simple Git laboratory for learning and practicing Git workflows.
 2. Create a new branch for your changes
 3. Make your modifications
 4. Submit a pull request
+## Git lab Assigment
+Git lab repo
